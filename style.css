@@ -59,15 +59,18 @@ body{
 .button-1{
     width: 52px;
     height: 31px;
-    border-radius: 100%;
+    border-radius: 25px;
     border: 1px solid #3C3C43;
-    padding: 8px;
+    padding: 5px;
     gap: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .tag1{
     font-weight: 400;
-    font-size: 12px;
+    font-size: 14px;
     line-height: 100%;
     color: #3C3C43;
     text-align: center;
@@ -76,15 +79,18 @@ body{
 .button-2{
     width: 52px;
     height: 31px;
-    border-radius: 100%;
+    border-radius: 25px;
     border: 1px solid #3C3C43;
-    padding: 8px;
+    padding: 5px;
     gap: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .tag2{
     font-weight: 400;
-    font-size: 12px;
+    font-size: 14px;
     line-height: 100%;
     color: #3C3C43;
     text-align: center;
@@ -94,15 +100,18 @@ body{
 .button-3{
     width: 52px;
     height: 31px;
-    border-radius: 100%;
+    border-radius: 25px;
     border: 1px solid #3C3C43;
-    padding: 8px;
+    padding: 5px;
     gap: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .tag3{
     font-weight: 400;
-    font-size: 12px;
+    font-size: 14px;
     line-height: 100%;
     color: #3C3C43;
     text-align: center;
